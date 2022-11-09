@@ -1,0 +1,53 @@
+[ {
+  "buildOrder" : 8,
+  "reportUrl" : "http://localhost:9090/job/BDDbehavePOM/8/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 7,
+  "reportUrl" : "http://localhost:9090/job/BDDbehavePOM/7/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 6,
+  "reportUrl" : "http://localhost:9090/job/BDDbehavePOM/6/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 5,
+  "reportUrl" : "http://localhost:9090/job/BDDbehavePOM/5/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 4,
+  "reportUrl" : "http://localhost:9090/job/BDDbehavePOM/4/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 3,
+  "reportUrl" : "http://localhost:9090/job/BDDbehavePOM/3/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 2,
+  "reportUrl" : "http://localhost:9090/job/BDDbehavePOM/2/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 1,
+  "reportUrl" : "http://localhost:9090/job/BDDbehavePOM/1/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 39,
+  "reportUrl" : "http://localhost:9090/job/POM/39/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 37,
+  "reportUrl" : "http://localhost:9090/job/POM/37/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 52212
+  }
+} ]
